@@ -1,0 +1,16 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+# Include your project-specific ignores in the file
+# Read  about how to use .gitignore  in https://help.github.com
+# Useful .gitignore templates: https://github.com/github/
+
+# You don't have to specify file by file
+# ignore the folder end with /
+
+# Ignore file
+/credentials.py
+
+# Ignore folder
+text/
