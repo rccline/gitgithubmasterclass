@@ -11,6 +11,8 @@
 
 # Ignore file
 /credentials.py
+/GitGithubMasterclass.Rproj
+/*.url
 
 # Ignore folder
 text/
